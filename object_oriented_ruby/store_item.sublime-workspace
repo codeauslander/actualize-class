@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rin",
+				"ring_bell"
+			],
+			[
+				"re",
+				"reverse_a_string"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"pa",
+				"parameter"
+			],
+			[
+				"Fo",
+				"Food"
+			],
+			[
+				"w",
+				"while\twhile ... end"
+			],
+			[
+				"giv",
+				"give_annual_raise"
+			],
+			[
+				"em",
+				"employee_1"
+			],
+			[
+				"sa",
+				"same_manager_employee"
+			],
+			[
+				"fi",
+				"fire_all_employees"
+			],
+			[
+				"emp",
+				"employee_1"
+			],
+			[
+				"ri",
+				"ring_bell"
+			],
+			[
+				"sen",
+				"send_report"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"frui",
+				"fruit"
+			],
+			[
+				"fruit",
+				"fruits"
+			],
+			[
+				"fru",
+				"fruit_names"
+			],
+			[
+				"fri",
+				"first_name"
+			],
+			[
+				"pr",
+				"print_item"
+			],
+			[
+				"it",
+				"item_1"
+			],
+			[
+				"new",
+				"new_active"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"empl",
+				"employee_1"
+			],
+			[
+				"inpu",
+				"input_first_name"
+			],
+			[
+				"min",
+				"minimum"
+			],
+			[
+				"spread",
+				"spread_temperature"
+			],
+			[
+				"find",
+				"find_minimum_spread_temperature"
+			],
+			[
+				"mi",
+				"minimum_spread_temperature"
+			],
+			[
+				"sp",
+				"spread_temperature"
+			],
+			[
+				"day",
+				"day_temperature"
+			],
+			[
+				"tem",
+				"temperatures_per_day"
+			],
+			[
+				"te",
+				"temperatures_per_day"
+			],
+			[
+				"dele",
+				"delete_card_from_player"
+			],
+			[
+				"ge",
+				"get_player_by_name"
+			],
+			[
+				"lo",
+				"losers_cards"
+			],
+			[
+				"winn",
+				"winners"
+			],
+			[
+				"pl",
+				"player"
+			],
+			[
+				"add_",
+				"add_cards_to_player"
+			],
+			[
+				"win",
+				"winners"
+			],
+			[
+				"ca",
+				"cards"
+			],
+			[
+				"pla",
+				"players"
+			],
+			[
+				"a",
+				"add_card"
+			],
+			[
+				"sel",
+				"selected_card"
+			],
+			[
+				"name",
+				"name_players"
+			],
+			[
+				"mak",
+				"make_deck"
+			],
+			[
+				"am",
+				"amount_players"
+			],
+			[
+				"make",
+				"make_deck_for_player"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"son",
+				"songs"
+			],
+			[
+				"so",
+				"sorb\tsort_by { |e| .. }"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"ap",
+				"application"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 123.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 838.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/u/Actualize/object_oriented_ruby/store_item.rb",
+		"/home/u/Actualize/object_oriented_ruby/manager.rb",
+		"/home/u/Actualize/object_oriented_ruby/object/runner.rb",
+		"/home/u/Actualize/object_oriented_ruby/employee.rb",
+		"/home/u/Actualize/daly_problems/week_1/monday.rb",
+		"/home/u/Actualize/daly_problems/week_1/tuesday.rb",
+		"/home/u/Actualize/object_oriented_ruby/lamp.rb",
+		"/home/u/Actualize/object_oriented_ruby/inheritance_example.rb",
+		"/home/u/Actualize/object_oriented_ruby/module_example.rb",
+		"/home/u/Actualize/Kata04/Kata04.rb",
+		"/home/u/Actualize/github_example/squirrels.rb",
+		"/home/u/Actualize/employee.rb",
+		"/home/u/Actualize/haging_out_repository/.git/description",
+		"/home/u/Actualize/git_recipe/recipe.rb",
+		"/home/u/Actualize/Burning Hot Tacos",
+		"/home/u/railsWorkspace/actualize/war_game.rb",
+		"/home/u/Desktop/bash_profile",
+		"/home/u/railsWorkspace/actualize/todo_oop_app.rb",
+		"/home/u/railsWorkspace/actualize/song_oop_app/song.rb",
+		"/home/u/railsWorkspace/actualize/song_oop_app/list.rb",
+		"/home/u/railsWorkspace/actualize/song_oop_app/runner.rb",
+		"/home/u/railsWorkspace/actualize/song_oop_app/song_oop_app.rb",
+		"/home/u/railsWorkspace/actualize/Exercise: HTML Intro Part #3.html",
+		"/home/u/railsWorkspace/actualize/Exercise: HTML Intro Part #2.html",
+		"/home/u/railsWorkspace/#Actualize Exercise: OOP Episode #7 - Converting H.rb",
+		"/home/u/railsWorkspace/test2.rb",
+		"/home/u/railsWorkspace/test.rb",
+		"/home/u/railsWorkspace/sample_app/config/routes.rb",
+		"/home/u/railsWorkspace/sample_app/app/controllers/application_controller.rb",
+		"/home/u/railsWorkspace/sample_app/README.md",
+		"/home/u/railsWorkspace/sample_app/Gemfile",
+		"/home/u/railsWorkspace/sample_app/Gemfile.lock",
+		"/home/u/railsWorkspace/toy_app/app/controllers/users_controller.rb",
+		"/home/u/railsWorkspace/toy_app/app/views/users/index.html.erb",
+		"/home/u/railsWorkspace/toy_app/app/models/user.rb",
+		"/home/u/railsWorkspace/toy_app/app/controllers/application_controller.rb",
+		"/home/u/railsWorkspace/toy_app/app/models/micropost.rb",
+		"/home/u/railsWorkspace/toy_app/Gemfile",
+		"/home/u/railsWorkspace/toy_app/app/views/users/index.json.jbuilder",
+		"/home/u/railsWorkspace/toy_app/config/routes.rb",
+		"/home/u/railsWorkspace/hello_app/Gemfile",
+		"/home/u/railsWorkspace/hello_app/app/controllers/application_controller.rb",
+		"/home/u/railsWorkspace/hello_app/config/routes.rb",
+		"/home/u/railsWorkspace/hello_app/README.md"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "store_item.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

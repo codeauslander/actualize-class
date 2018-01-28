@@ -1,0 +1,15 @@
+current directory: /home/u/Actualize/object_oriented_ruby/test_app/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/home/u/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20180110-10338-1b5gew1.rb extconf.rb
+creating Makefile
+
+current directory: /home/u/Actualize/object_oriented_ruby/test_app/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/u/Actualize/object_oriented_ruby/test_app/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/u/Actualize/object_oriented_ruby/test_app/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20180110-10338-1cywsfh/bindex
